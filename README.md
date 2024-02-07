@@ -10,6 +10,5 @@ Reward score interval is `[-0.9, 22]`.
 
 <ins>Worst condition:</ins> 0 health + no achievements unlocked
 
-restoring all health until time limit is reached 
 - score ≥ 21.1 indicates all achievements have been unlocked
   reward score
