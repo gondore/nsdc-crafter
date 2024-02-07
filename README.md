@@ -1,5 +1,7 @@
 # nsdc-crafter
 
+## Environment
+
 ## Reward signal
 
 Agents are assessed by their geometric mean score of 22 achievements 
