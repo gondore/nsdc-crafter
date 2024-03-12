@@ -1,7 +1,7 @@
 # nsdc-crafter
 - This repo contains our work as a National Student Data Corps (NSDC) team in the Winter 2024 quarter 
 - We were beginners in reinforcement learning and implemented the [classical deep reinforcement learning paper](https://arxiv.org/abs/1312.5602), _Playing Atari with Deep Reinforcement Learning_, onto [crafter](https://github.com/danijar/crafter/tree/main)
-- You can fin
+- You can find slides that we used to present our work [here](https://docs.google.com/presentation/d/1F887AyCoSn81eKEwX_s-MUE9IuK_R9go1h87WG9c0TA/edit?usp=sharing): 
   
 ## Environment
 - crafter is a custom research environment that was originally developed based off of the discontinued openAI gym, so some standard environment setup protocols are different since we are using gymnasium over gym
